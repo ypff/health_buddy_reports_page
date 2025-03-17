@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Health Buddy Reports
+description: Reorganized reports and summaries by topics
+show_downloads: false
+markdown: kramdown
+kramdown:
+  input: GFM
